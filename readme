@@ -1,0 +1,4 @@
+use the above to excute commands
+./vendor/bin/sail artisan migrate 
+./vendor/bin/sail stop
+./vendor/bin/sail artisan make:model Project -all
